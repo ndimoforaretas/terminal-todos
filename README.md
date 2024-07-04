@@ -1,5 +1,7 @@
 # Terminal To-Do List Manager
 
+![Terminal Todo Screenshot](terminal-todos.png)
+
 Welcome to the Terminal To-Do List Manager!
 
 This is a simple interactive terminal application where you can manage your to-do list.
