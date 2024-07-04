@@ -1,0 +1,16 @@
+{
+  "name": "terminal-todos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "terminal-todos.js",
+  "type": "module",
+  "scripts": {
+    "start": "node terminal-todos.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
