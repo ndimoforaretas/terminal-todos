@@ -27,7 +27,7 @@ function showMenu() {
   console.log("2. Add To-Do Item 📝");
   console.log("3. Edit To-Do Item 🖋️");
   console.log("4. Delete To-Do Item ❌");
-  console.log("5. Exit ⏹️");
+  console.log("5. Exit 🚪");
   console.log("--------------------------------\n");
 }
 
@@ -119,9 +119,7 @@ function startToDoListManager() {
         console.log("\nThank you for using the To-Do List Manager.\n");
         break;
       default:
-        console.log(
-          "\n ❗️Invalid option. Please choose a number between 1 and 5.\n"
-        );
+        console.log("\n ❗️Invalid option.\n");
         console.log("\n❗️Please choose a number between 1 and 5.\n");
     }
   }
